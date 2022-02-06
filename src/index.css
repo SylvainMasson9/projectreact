@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.c-nav--primary {
+  position: fixed;
+  background-color: white ;
+  margin-bottom: 50%  !important;
+  overflow: hidden;
+}
+
+.c-billboard__content 
+{
+  margin-top: 14%;
+}
